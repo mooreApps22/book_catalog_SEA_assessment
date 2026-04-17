@@ -1,0 +1,702 @@
+[
+    {
+		"title":"Ulysses",
+		"author":"James Joyce",
+		"publicationDate":"1922",
+		"description":"A single day in Dublin becomes an epic of consciousness.",
+		"notableQuote":"Yes I said yes"
+	},
+    {
+		"title":"The Great Gatsby",
+		"author":"F. Scott Fitzgerald",
+		"publicationDate":"1925",
+		"description":"A doomed millionaire chases love and reinvents himself in the Jazz Age.",
+		"notableQuote":"So we beat on"
+	},
+    {
+		"title":"A Portrait of the Artist as a Young Man",
+		"author":"James Joyce",
+		"publicationDate":"1916",
+		"description":"A young Irish artist rebels against family,nation, and church.",
+		"notableQuote":"Welcome, O life!"
+	},
+    {
+		"title":"Lolita",
+		"author":"Vladimir Nabokov",
+		"publicationDate":"1955",
+		"description":"A dazzling, disturbing tale of obsession and manipulation.",
+		"notableQuote":"light of my life"
+	},
+    {
+		"title":"Brave New World",
+		"author":"Aldous Huxley",
+		"publicationDate":"1932",
+		"description":"A pleasure-soaked dystopia trades freedom for stability.",
+		"notableQuote":"Ending is better"
+	},
+    {
+		"title":"The Sound and the Fury",
+		"author":"William Faulkner",
+		"publicationDate":"1929",
+		"description":"The collapse of a Southern family told through fractured minds.",
+		"notableQuote":"I give you the mausoleum"
+	},
+    {
+		"title":"Catch-22",
+		"author":"Joseph Heller",
+		"publicationDate":"1961",
+		"description":"A bombardier faces the absurd logic of war and bureaucracy.",
+		"notableQuote":"That's some catch"
+	},
+    {
+		"title":"Darkness at Noon",
+		"author":"Arthur Koestler",
+		"publicationDate":"1940",
+		"description":"An imprisoned revolutionary confronts ideology, guilt, and betrayal.",
+		"notableQuote":"The Party never errs"
+	},
+    {
+		"title":"Sons and Lovers",
+		"author":"D. H. Lawrence",
+		"publicationDate":"1913",
+		"description":"A young man struggles between desire, art, and his mother’s hold.",
+		"notableQuote":"It hurts to love"
+	},
+    {
+		"title":"The Grapes of Wrath",
+		"author":"John Steinbeck",
+		"publicationDate":"1939",
+		"description":"A Dust Bowl family heads west into poverty, anger, and endurance.",
+		"notableQuote":"I'll be there"
+	},
+    {
+		"title":"Under the Volcano",
+		"author":"Malcolm Lowry",
+		"publicationDate":"1947",
+		"description":"An alcoholic consul spirals through one fatal Day of the Dead.",
+		"notableQuote":"No se puede vivir sin amar"
+	},
+    {
+		"title":"The Way of All Flesh",
+		"author":"Samuel Butler",
+		"publicationDate":"1903",
+		"description":"A satirical family saga attacks Victorian hypocrisy and repression.",
+		"notableQuote":"Life is like music"
+	},
+    {
+		"title":"1984",
+		"author":"George Orwell",
+		"publicationDate":"1949",
+		"description":"A man resists total surveillance in a state built on lies.",
+		"notableQuote":"Big Brother is watching"
+	},
+    {
+		"title":"I, Claudius",
+		"author":"Robert Graves",
+		"publicationDate":"1934",
+		"description":"The unlikely Roman emperor survives palace intrigue and bloodshed.",
+		"notableQuote":"I, Claudius"
+	},
+    {
+		"title":"To the Lighthouse",
+		"author":"Virginia Woolf",
+		"publicationDate":"1927",
+		"description":"A family holiday becomes a meditation on time, art, and loss.",
+		"notableQuote":"Yes, of course"
+	},
+    {
+		"title":"An American Tragedy",
+		"author":"Theodore Dreiser",
+		"publicationDate":"1925",
+		"description":"Ambition, desire, and class pressure drive a young man toward crime.",
+		"notableQuote":"He wanted so much"
+	},
+    {
+		"title":"The Heart Is a Lonely Hunter",
+		"author":"Carson McCullers",
+		"publicationDate":"1940",
+		"description":"Lonely Southerners seek connection around a silent confidant.",
+		"notableQuote":"The heart is a lonely hunter"
+	},
+    {
+		"title":"Slaughterhouse-Five",
+		"author":"Kurt Vonnegut",
+		"publicationDate":"1969",
+		"description":"A traumatized soldier slips through time after Dresden.",
+		"notableQuote":"So it goes"
+	},
+    {
+		"title":"Invisible Man",
+		"author":"Ralph Ellison",
+		"publicationDate":"1952",
+		"description":"An unnamed Black narrator confronts America’s blindness to his humanity.",
+		"notableQuote":"I am invisible"
+	},
+    {
+		"title":"Native Son",
+		"author":"Richard Wright",
+		"publicationDate":"1940",
+		"description":"Racism and poverty shape a young man’s violent fate in Chicago.",
+		"notableQuote":"What I killed for, I am"
+	},
+    {
+		"title":"Henderson the Rain King",
+		"author":"Saul Bellow",
+		"publicationDate":"1959",
+		"description":"A restless millionaire seeks meaning in Africa.",
+		"notableQuote":"I want, I want"
+	},
+    {
+		"title":"Appointment in Samarra",
+		"author":"John O'Hara",
+		"publicationDate":"1934",
+		"description":"One reckless act sends a socialite toward ruin.",
+		"notableQuote":"He had done it"
+	},
+    {
+		"title":"U.S.A. (trilogy)",
+		"author":"John Dos Passos",
+		"publicationDate":"1930",
+		"description":"A collage of lives maps America’s first half-century.",
+		"notableQuote":"All right, we're going"
+	},
+    {
+		"title":"Winesburg, Ohio",
+		"author":"Sherwood Anderson",
+		"publicationDate":"1919",
+		"description":"Linked stories expose loneliness and longing in a small town.",
+		"notableQuote":"He wanted to talk"
+	},
+    {
+		"title":"A Passage to India",
+		"author":"E. M. Forster",
+		"publicationDate":"1924",
+		"description":"Friendship and empire collide after a trip to the Marabar Caves.",
+		"notableQuote":"Only connect"
+	},
+    {
+		"title":"The Wings of the Dove",
+		"author":"Henry James",
+		"publicationDate":"1902",
+		"description":"Love, illness, and money entwine in a refined moral drama.",
+		"notableQuote":"She waited"
+	},
+    {
+		"title":"The Ambassadors",
+		"author":"Henry James",
+		"publicationDate":"1903",
+		"description":"A middle-aged envoy discovers a richer life in Europe.",
+		"notableQuote":"Live all you can"
+	},
+    {
+		"title":"Tender Is the Night",
+		"author":"F. Scott Fitzgerald",
+		"publicationDate":"1934",
+		"description":"A glamorous marriage decays on the Riviera.",
+		"notableQuote":"Tender is the night"
+	},
+    {
+		"title":"The Studs Lonigan Trilogy",
+		"author":"James T. Farrell",
+		"publicationDate":"1932",
+		"description":"A Chicago youth comes of age amid brutality and disappointment.",
+		"notableQuote":"He kept going"
+	},
+    {
+		"title":"The Good Soldier",
+		"author":"Ford Madox Ford",
+		"publicationDate":"1915",
+		"description":"An unreliable narrator untangles adultery, deception, and collapse.",
+		"notableQuote":"This is the saddest story"
+	},
+    {
+		"title":"Animal Farm",
+		"author":"George Orwell",
+		"publicationDate":"1945",
+		"description":"A barnyard revolution turns into tyranny.",
+		"notableQuote":"All animals are equal"
+	},
+    {
+		"title":"The Golden Bowl",
+		"author":"Henry James",
+		"publicationDate":"1904",
+		"description":"Marriage and betrayal unfold beneath polished manners.",
+		"notableQuote":"The bowl was cracked"
+	},
+    {
+		"title":"Sister Carrie",
+		"author":"Theodore Dreiser",
+		"publicationDate":"1900",
+		"description":"A small-town girl pursues desire and status in the modern city.",
+		"notableQuote":"She looked out"
+	},
+    {
+		"title":"A Handful of Dust",
+		"author":"Evelyn Waugh",
+		"publicationDate":"1934",
+		"description":"A savage satire of marriage, class, and modern emptiness.",
+		"notableQuote":"Dust everywhere"
+	},
+    {
+		"title":"As I Lay Dying",
+		"author":"William Faulkner",
+		"publicationDate":"1930",
+		"description":"A poor family carries their mother’s body across Mississippi.",
+		"notableQuote":"My mother is a fish"
+	},
+    {
+		"title":"All the King's Men",
+		"author":"Robert Penn Warren",
+		"publicationDate":"1946",
+		"description":"A populist politician rises and rots in power.",
+		"notableQuote":"The end of man is knowledge"
+	},
+    {
+		"title":"The Bridge of San Luis Rey",
+		"author":"Thornton Wilder",
+		"publicationDate":"1927",
+		"description":"Five deaths prompt a search for meaning and providence.",
+		"notableQuote":"Either we live by accident"
+	},
+    {
+		"title":"Howards End",
+		"author":"E. M. Forster",
+		"publicationDate":"1910",
+		"description":"Three families embody class, culture, and connection in England.",
+		"notableQuote":"Only connect"
+	},
+    {
+		"title":"Go Tell It on the Mountain",
+		"author":"James Baldwin",
+		"publicationDate":"1953",
+		"description":"A Harlem boy wrestles with faith, family, and identity.",
+		"notableQuote":"John would be a preacher"
+	},
+    {
+		"title":"The Heart of the Matter",
+		"author":"Graham Greene",
+		"publicationDate":"1948",
+		"description":"Duty, pity, and sin entrap a colonial officer.",
+		"notableQuote":"He was too honest"
+	},
+    {
+		"title":"Lord of the Flies",
+		"author":"William Golding",
+		"publicationDate":"1954",
+		"description":"Schoolboys on an island build a society that turns savage.",
+		"notableQuote":"Maybe there is a beast"
+	},
+    {
+		"title":"Deliverance",
+		"author":"James Dickey",
+		"publicationDate":"1970",
+		"description":"A wilderness trip becomes a fight for survival and conscience.",
+		"notableQuote":"This is not my life"
+	},
+    {
+		"title":"A Dance to the Music of Time",
+		"author":"Anthony Powell",
+		"publicationDate":"1951",
+		"description":"A many-volume social chronicle of Britain between the wars and after.",
+		"notableQuote":"Time's music"
+	},
+    {
+		"title":"Point Counter Point",
+		"author":"Aldous Huxley",
+		"publicationDate":"1928",
+		"description":"Interlocking lives create a satirical symphony of ideas and desire.",
+		"notableQuote":"So many voices"
+	},
+    {
+		"title":"The Sun Also Rises",
+		"author":"Ernest Hemingway",
+		"publicationDate":"1926",
+		"description":"Disillusioned expatriates drift through Paris and Pamplona.",
+		"notableQuote":"Isn't it pretty to think so"
+	},
+    {
+		"title":"The Secret Agent",
+		"author":"Joseph Conrad",
+		"publicationDate":"1907",
+		"description":"A London terrorist plot exposes political cynicism and domestic tragedy.",
+		"notableQuote":"Madness alone is truly terrifying"
+	},
+    {
+		"title":"Nostromo",
+		"author":"Joseph Conrad",
+		"publicationDate":"1904",
+		"description":"Greed and imperial power corrupt a South American republic.",
+		"notableQuote":"Material interests"
+	},
+    {
+		"title":"The Rainbow",
+		"author":"D. H. Lawrence",
+		"publicationDate":"1915",
+		"description":"Three generations pursue desire, freedom, and selfhood.",
+		"notableQuote":"She wanted to live"
+	},
+    {
+		"title":"Women in Love",
+		"author":"D. H. Lawrence",
+		"publicationDate":"1920",
+		"description":"Two sisters test love, sex, and modern life.",
+		"notableQuote":"One must be free"
+	},
+    {
+		"title":"Tropic of Cancer",
+		"author":"Henry Miller",
+		"publicationDate":"1934",
+		"description":"A raw, unruly Paris novel of poverty, art, and appetite.",
+		"notableQuote":"I have no money"
+	},
+    {
+		"title":"The Naked and the Dead",
+		"author":"Norman Mailer",
+		"publicationDate":"1948",
+		"description":"A platoon in the Pacific reveals war’s machinery and fear.",
+		"notableQuote":"The dead know nothing"
+	},
+    {
+		"title":"Portnoy's Complaint",
+		"author":"Philip Roth",
+		"publicationDate":"1969",
+		"description":"A comic, confessional monologue about sex, family, and neurosis.",
+		"notableQuote":"Doctor, I feel sick"
+	},
+    {
+		"title":"Pale Fire",
+		"author":"Vladimir Nabokov",
+		"publicationDate":"1962",
+		"description":"A poem and its deranged commentary become a literary labyrinth.",
+		"notableQuote":"pale fire"
+	},
+    {
+		"title":"Light in August",
+		"author":"William Faulkner",
+		"publicationDate":"1932",
+		"description":"Strangers and outcasts cross paths in a haunted Southern town.",
+		"notableQuote":"Memory believes"
+	},
+    {
+		"title":"On the Road",
+		"author":"Jack Kerouac",
+		"publicationDate":"1957",
+		"description":"Friends chase speed, freedom, and revelation across America.",
+		"notableQuote":"the only people for me"
+	},
+    {
+		"title":"The Maltese Falcon",
+		"author":"Dashiell Hammett",
+		"publicationDate":"1930",
+		"description":"A private detective hunts a jewel-encrusted bird through lies and murder.",
+		"notableQuote":"the stuff that dreams are made of"
+	},
+    {
+		"title":"Parade's End",
+		"author":"Ford Madox Ford",
+		"publicationDate":"1924",
+		"description":"An honorable Englishman endures war, marriage, and social change.",
+		"notableQuote":"He was the last Tory"
+	},
+    {
+		"title":"The Age of Innocence",
+		"author":"Edith Wharton",
+		"publicationDate":"1920",
+		"description":"Desire and duty clash in old New York society.",
+		"notableQuote":"It was less trouble"
+	},
+    {
+		"title":"Zuleika Dobson",
+		"author":"Max Beerbohm",
+		"publicationDate":"1911",
+		"description":"Oxford vanity and romantic absurdity spiral into satire.",
+		"notableQuote":"She was fatal"
+	},
+    {
+		"title":"The Moviegoer",
+		"author":"Walker Percy",
+		"publicationDate":"1961",
+		"description":"A drifting New Orleans broker searches for authentic life.",
+		"notableQuote":"The search"
+	},
+    {
+		"title":"Death Comes for the Archbishop",
+		"author":"Willa Cather",
+		"publicationDate":"1927",
+		"description":"Two clerics build a diocese across the New Mexican frontier.",
+		"notableQuote":"The land said more"
+	},
+    {
+		"title":"From Here to Eternity",
+		"author":"James Jones",
+		"publicationDate":"1951",
+		"description":"Soldiers in Hawaii confront violence, loyalty, and fate before Pearl Harbor.",
+		"notableQuote":"A man can take only so much"
+	},
+    {
+		"title":"The Wapshot Chronicle",
+		"author":"John Cheever",
+		"publicationDate":"1957",
+		"description":"An eccentric New England family navigates generational change.",
+		"notableQuote":"The river kept on"
+	},
+    {
+		"title":"The Catcher in the Rye",
+		"author":"J. D. Salinger",
+		"publicationDate":"1951",
+		"description":"A grieving teenager wanders New York railing against phoniness.",
+		"notableQuote":"Don't ever tell anybody anything"
+	},
+    {
+		"title":"A Clockwork Orange",
+		"author":"Anthony Burgess",
+		"publicationDate":"1962",
+		"description":"A violent youth meets state-engineered reform in a slangy dystopia.",
+		"notableQuote":"What's it going to be then"
+	},
+    {
+		"title":"Of Human Bondage",
+		"author":"W. Somerset Maugham",
+		"publicationDate":"1915",
+		"description":"An orphan’s painful education in love, art, and freedom.",
+		"notableQuote":"He longed to escape"
+	},
+    {
+		"title":"Heart of Darkness",
+		"author":"Joseph Conrad",
+		"publicationDate":"1902",
+		"description":"A river journey into colonial brutality becomes a voyage inward.",
+		"notableQuote":"The horror!"
+	},
+    {
+		"title":"Main Street",
+		"author":"Sinclair Lewis",
+		"publicationDate":"1920",
+		"description":"A reform-minded woman battles small-town complacency.",
+		"notableQuote":"Main Street"
+	},
+    {
+		"title":"The House of Mirth",
+		"author":"Edith Wharton",
+		"publicationDate":"1905",
+		"description":"A brilliant woman without money is crushed by society.",
+		"notableQuote":"I can’t be happy"
+	},
+    {
+		"title":"The Alexandria Quartet",
+		"author":"Lawrence Durrell",
+		"publicationDate":"1957",
+		"description":"Four linked novels revisit the same passions from shifting perspectives.",
+		"notableQuote":"Alexandria"
+	},
+    {
+		"title":"A High Wind in Jamaica",
+		"author":"Richard Hughes",
+		"publicationDate":"1929",
+		"description":"Children kidnapped by pirates reveal the darkness of innocence.",
+		"notableQuote":"They were children"
+	},
+    {
+		"title":"A House for Mr Biswas",
+		"author":"V. S. Naipaul",
+		"publicationDate":"1961",
+		"description":"A Trinidad man pursues dignity through the dream of owning a home.",
+		"notableQuote":"How terrible it would be"
+	},
+    {
+		"title":"The Day of the Locust",
+		"author":"Nathanael West",
+		"publicationDate":"1939",
+		"description":"Hollywood desperation curdles into grotesque apocalypse.",
+		"notableQuote":"Burning of Los Angeles"
+	},
+    {
+		"title":"A Farewell to Arms",
+		"author":"Ernest Hemingway",
+		"publicationDate":"1929",
+		"description":"Love blooms and breaks against the chaos of war.",
+		"notableQuote":"the world breaks everyone"
+	},
+    {
+		"title":"Scoop",
+		"author":"Evelyn Waugh",
+		"publicationDate":"1938",
+		"description":"A bumbling reporter stumbles into an absurd media circus.",
+		"notableQuote":"Up to a point, Lord Copper"
+	},
+    {
+		"title":"The Prime of Miss Jean Brodie",
+		"author":"Muriel Spark",
+		"publicationDate":"1961",
+		"description":"A charismatic teacher shapes and damages her chosen girls.",
+		"notableQuote":"Give me a girl"
+	},
+    {
+		"title":"Finnegans Wake",
+		"author":"James Joyce",
+		"publicationDate":"1939",
+		"description":"A dreamlike verbal universe turns Dublin into myth and pun.",
+		"notableQuote":"riverrun"
+	},
+    {
+		"title":"Kim",
+		"author":"Rudyard Kipling",
+		"publicationDate":"1901",
+		"description":"An orphan roams colonial India through espionage and spiritual quest.",
+		"notableQuote":"Who is Kim"
+	},
+    {
+		"title":"A Room with a View",
+		"author":"E. M. Forster",
+		"publicationDate":"1908",
+		"description":"A young woman chooses feeling over convention.",
+		"notableQuote":"One doesn't like one’s emotions"
+	},
+    {
+		"title":"Brideshead Revisited",
+		"author":"Evelyn Waugh",
+		"publicationDate":"1945",
+		"description":"Memory,  class, faith, and desire haunt an aristocratic family.",
+		"notableQuote":"Et in Arcadia ego"
+	},
+    {
+		"title":"The Adventures of Augie March",
+		"author":"Saul Bellow",
+		"publicationDate":"1953",
+		"description":"A Chicago-born drifter improvises his way through modern America.",
+		"notableQuote":"I am an American"
+	},
+    {
+		"title":"Angle of Repose",
+		"author":"Wallace Stegner",
+		"publicationDate":"1971",
+		"description":"A historian reconstructs a marriage and the making of the West.",
+		"notableQuote":"The past is always a rebuke"
+	},
+    {
+		"title":"A Bend in the River",
+		"author":"V. S. Naipaul",
+		"publicationDate":"1979",
+		"description":"A merchant watches a postcolonial nation slide into danger.",
+		"notableQuote":"The world is what it is"
+	},
+    {
+		"title":"The Death of the Heart",
+		"author":"Elizabeth Bowen",
+		"publicationDate":"1938",
+		"description":"A young girl’s first love exposes adult cruelty and self-deception.",
+		"notableQuote":"She felt everything"
+	},
+    {
+		"title":"Lord Jim",
+		"author":"Joseph Conrad",
+		"publicationDate":"1900",
+		"description":"A disgraced seaman seeks redemption after a single cowardly act.",
+		"notableQuote":"He was one of us"
+	},
+    {
+		"title":"Ragtime",
+		"author":"E. L. Doctorow",
+		"publicationDate":"1975",
+		"description":"History and fiction mingle in a restless portrait of America.",
+		"notableQuote":"There was no Negro problem"
+	},
+    {
+		"title":"The Old Wives' Tale",
+		"author":"Arnold Bennett",
+		"publicationDate":"1908",
+		"description":"Two sisters age through modernity, marriage, and regret.",
+		"notableQuote":"Life had gone on"
+	},
+    {
+		"title":"The Call of the Wild",
+		"author":"Jack London",
+		"publicationDate":"1903",
+		"description":"A stolen dog answers the pull of instinct and survival.",
+		"notableQuote":"the call"
+	},
+    {
+		"title":"Loving",
+		"author":"Henry Green",
+		"publicationDate":"1945",
+		"description":"Servants and aristocrats circle one another in wartime Ireland.",
+		"notableQuote":"Loving"
+	},
+    {
+		"title":"Midnight's Children",
+		"author":"Salman Rushdie",
+		"publicationDate":"1981",
+		"description":"Children born at India’s independence carry the nation’s fate.",
+		"notableQuote":"I was born"
+	},
+    {
+		"title":"Tobacco Road",
+		"author":"Erskine Caldwell",
+		"publicationDate":"1932",
+		"description":"Grotesque Depression-era poverty devastates a Georgia family.",
+		"notableQuote":"Hungry all the time"
+	},
+    {
+		"title":"Ironweed",
+		"author":"William Kennedy",
+		"publicationDate":"1983",
+		"description":"An alcoholic drifter in Albany is haunted by guilt and ghosts.",
+		"notableQuote":"The dead remember"
+	},
+    {
+		"title":"The Magus",
+		"author":"John Fowles",
+		"publicationDate":"1965",
+		"description":"A young Englishman is drawn into elaborate psychological games.",
+		"notableQuote":"Nothing is as it seems"
+	},
+    {
+		"title":"Wide Sargasso Sea",
+		"author":"Jean Rhys",
+		"publicationDate":"1966",
+		"description":"A Caribbean prequel restores the voice of Rochester’s first wife.",
+		"notableQuote":"There is always the other side"
+	},
+    {
+		"title":"Under the Net",
+		"author":"Iris Murdoch",
+		"publicationDate":"1954",
+		"description":"A comic London quest tests art, language, and friendship.",
+		"notableQuote":"Words are not enough"
+	},
+    {
+		"title":"Sophie's Choice",
+		"author":"William Styron",
+		"publicationDate":"1979",
+		"description":"A writer befriends two troubled lovers shadowed by Auschwitz.",
+		"notableQuote":"I can’t choose"
+	},
+    {
+		"title":"The Sheltering Sky",
+		"author":"Paul Bowles",
+		"publicationDate":"1949",
+		"description":"Travel in North Africa becomes existential disintegration.",
+		"notableQuote":"Because we don't know"
+	},
+    {
+		"title":"The Postman Always Rings Twice",
+		"author":"James M. Cain",
+		"publicationDate":"1934",
+		"description":"An affair turns murderous in a lean noir classic.",
+		"notableQuote":"I loved her"
+	},
+    {
+		"title":"The Ginger Man",
+		"author":"J. P. Donleavy",
+		"publicationDate":"1955",
+		"description":"A reckless American law student drinks and blunders through Dublin.",
+		"notableQuote":"Dangerfield was here"
+	},
+    {
+		"title":"The Magnificent Ambersons",
+		"author":"Booth Tarkington",
+		"publicationDate":"1918",
+		"description":"An old family declines as modern America remakes its world.",
+		"notableQuote":"Major Amberson had been magnificent"
+	}
+]
