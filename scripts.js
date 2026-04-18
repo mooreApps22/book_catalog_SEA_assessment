@@ -1,20 +1,29 @@
 function renderMenuIcon() {
 
 	const	header = document.querySelector(".header");
+	const	controlPanel = document.createElement("div");
 	const	menuIcon = document.createElement("button");
 	const	bar1 = document.createElement("div");
 	const	bar2 = document.createElement("div");
 	const	bar3 = document.createElement("div");
+	const	searchBar = document.createElement("input");
 
+	controlPanel.className = "controlPanel";
 	menuIcon.className = "menuBox";
 	bar1.className = "menuBar";
 	bar2.className = "menuBar";
 	bar3.className = "menuBar";
+	searchBar.className = "searchBar";
 	
-	header.append(menuIcon);
+	header.append(controlPanel);
+
+	controlPanel.append(menuIcon);
+	controlPanel.append(searchBar);
+
 	menuIcon.append(bar1);
 	menuIcon.append(bar2);
 	menuIcon.append(bar3);
+	
 }
 
 function renderHeader() {
