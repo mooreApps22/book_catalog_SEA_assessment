@@ -590,7 +590,6 @@ const books = [
 		description: "Love blooms and breaks against the chaos of war.",
 		quote: "the world breaks everyone",
 		coverImage: "./assets/covers/farewellArms.webp"
-		coverImage: "./assets/covers/farewellArms.webp"
 	},
     {
 		title: "Scoop",
