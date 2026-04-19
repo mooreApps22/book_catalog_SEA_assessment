@@ -35,6 +35,13 @@ input {
 	padding-left: 20px;
 }
 
+.header {
+	width: 100vw;
+	height: 300px;
+	background: black;
+	color: white;
+}
+
 .controlPanel {
 	width: 90vw;
 	height: 60px;
@@ -43,11 +50,13 @@ input {
 	justify-content: flex-start;
 }
 
-.header {
-	width: 100vw;
-	height: 300px;
-	background: black;
-	color: white;
+.menuWrap {
+	position: relative;
+	display: inline-block;
+}
+
+.filterBar {
+	flex: 1;
 }
 
 .menuBox {
@@ -83,6 +92,37 @@ input {
 	background: white;
 	margin: 5px 0;
 	border-radius: 3px;
+}
+
+.sortMenu {
+	position: absolute;
+	top: calc(100% + 6px);
+	left: 0;
+	z-index: 1000;
+	min-width: 180px;
+	background: white;
+	border: 1px solid #ccc;
+	border-radius: 8px;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+	padding: 8px;
+}
+
+.sortMenu button {
+	display: block;
+	width: 100%
+	padding 8px 10px;
+	border: none;
+	background: none;
+	text-align: left;
+	cursor: pointer;
+}
+
+.sortMenu button:hover {
+	background: #f3f3f3;
+}
+
+.hidden {
+	display: none;
 }
 
 .footer {
