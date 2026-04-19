@@ -7,6 +7,48 @@ body {
 }
 
 .bookCard {
+	cursor: pointer;
+}
+
+.popupOverlay {
+	position: fixed;
+	inset: 0;
+	background: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	z-index: 1000;
+}
+
+.popupBox {
+	width: min(600px, 90vw);
+	max-height: 85vh;
+	overflow-y: auto;	
+	background: white;
+	color: black;
+	padding: 24px;
+	border-radius: 12px;
+	position: relative;
+	box-sizing: border-box;
+}
+
+.popupBox img {
+	display: block;
+	margin: 0 auto 20px auto;
+}
+
+.popupClose {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	background: black;
+	color: white;
+	border: none;
+	font-size: 1.5rem;
+	width: 40px;
+	height: 40px;
+	cursor: pointer;
+	border-radius: 6px;
 }
 
 #bookShelf {
