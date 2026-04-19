@@ -4,7 +4,7 @@ const books = [
 		author: "James Joyce",
 		publicationDate: "1922",
 		description: "A single day in Dublin becomes an epic of consciousness.",
-		quote: "Yes I said yes",
+		quote: "History, Stephen said, is a nightmare from which I am trying to awake.",
 		show: true,
 		coverImage: "./assets/covers/ulysses.webp"
 	},
@@ -22,7 +22,7 @@ const books = [
 		author: "James Joyce",
 		publicationDate: "1916",
 		description: "A young Irish artist rebels against family,nation, and church.",
-		quote: "Welcome, O life!",
+		quote: "You can still die when the sun is shining.",
 		show: true,
 		coverImage: "./assets/covers/portrait.webp"
 	},
@@ -31,7 +31,7 @@ const books = [
 		author: "Vladimir Nabokov",
 		publicationDate: "1955",
 		description: "A dazzling, disturbing tale of obsession and manipulation.",
-		quote: "light of my life",
+		quote: "He broke my heart. You merely broke my life.",
 		show: true,
 		coverImage: "./assets/covers/lolita.webp"
 	},
@@ -40,7 +40,7 @@ const books = [
 		author: "Aldous Huxley",
 		publicationDate: "1932",
 		description: "A pleasure-soaked dystopia trades freedom for stability.",
-		quote: "Ending is better",
+		quote: "I am I, and I wish I weren't.",
 		show: true,
 		coverImage: "./assets/covers/braveNewWorld.webp"
 	},
@@ -49,7 +49,7 @@ const books = [
 		author: "William Faulkner",
 		publicationDate: "1929",
 		description: "The collapse of a Southern family told through fractured minds.",
-		quote: "I give you the mausoleum",
+		quote: "Once a bitch always a bitch, what I say.",
 		show: true,
 		coverImage: "./assets/covers/soundAndFury.webp"
 	},
@@ -58,7 +58,7 @@ const books = [
 		author: "Joseph Heller",
 		publicationDate: "1961",
 		description: "A bombardier faces the absurd logic of war and bureaucracy.",
-		quote: "That's some catch",
+		quote: "He was going to live forever, or die in the attempt.",
 		show: true,
 		coverImage: "./assets/covers/catch22.webp"
 	},
@@ -67,7 +67,7 @@ const books = [
 		author: "Arthur Koestler",
 		publicationDate: "1940",
 		description: "An imprisoned revolutionary confronts ideology, guilt, and betrayal.",
-		quote: "The Party never errs",
+		quote: "Honor is decency without vanity.",
 		show: true,
 		coverImage: "./assets/covers/darknessAtNoon.webp"
 	},
@@ -76,7 +76,7 @@ const books = [
 		author: "D. H. Lawrence",
 		publicationDate: "1913",
 		description: "A young man struggles between desire, art, and his mother’s hold.",
-		quote: "It hurts to love",
+		quote: "Recklessness is almost a man's revenge on his woman. He feels he is not valued so he will risk destroying himself to deprive her altogether.",
 		show: true,
 		coverImage: "./assets/covers/sonsAndLovers.webp"
 	},
@@ -103,7 +103,7 @@ const books = [
 		author: "Samuel Butler",
 		publicationDate: "1903",
 		description: "A satirical family saga attacks Victorian hypocrisy and repression.",
-		quote: "Life is like music",
+		quote: "the principal business of life is to enjoy it.",
 		show: true,
 		coverImage: "./assets/covers/wayOfAllFlesh.webp"
 	},
@@ -121,7 +121,7 @@ const books = [
 		author: "Robert Graves",
 		publicationDate: "1934",
 		description: "The unlikely Roman emperor survives palace intrigue and bloodshed.",
-		quote: "I, Claudius",
+		quote: "Those that can’t beat the ass, beat the saddle.",
 		show: true,
 		coverImage: "./assets/covers/iClaudius.webp"
 	},
@@ -130,7 +130,7 @@ const books = [
 		author: "Virginia Woolf",
 		publicationDate: "1927",
 		description: "A family holiday becomes a meditation on time, art, and loss.",
-		quote: "Yes, of course",
+		quote: "The very stone one kicks with one's boot will outlast Shakespeare.",
 		show: true,
 		coverImage: "./assets/covers/lighthouse.webp"
 	},
@@ -139,7 +139,7 @@ const books = [
 		author: "Theodore Dreiser",
 		publicationDate: "1925",
 		description: "Ambition, desire, and class pressure drive a young man toward crime.",
-		quote: "He wanted so much",
+		quote: "what matter it if a man gaineth the whole world and loseth his own soul?",
 		show: true,
 		coverImage: "./assets/covers/americanTragedy.webp"
 	},
@@ -148,7 +148,7 @@ const books = [
 		author: "Carson McCullers",
 		publicationDate: "1940",
 		description: "Lonely Southerners seek connection around a silent confidant.",
-		quote: "The heart is a lonely hunter",
+		quote: "the way i need you is a loneliness i cannot bear.",
 		show: true,
 		coverImage: "./assets/covers/lonelyHunter.webp"
 	},
@@ -166,7 +166,7 @@ const books = [
 		author: "Ralph Ellison",
 		publicationDate: "1952",
 		description: "An unnamed Black narrator confronts America’s blindness to his humanity.",
-		quote: "I am invisible",
+		quote: "I am invisible, simply because people refuse to see me.",
 		show: true,
 		coverImage: "./assets/covers/invisibleMan.webp"
 	},
@@ -184,7 +184,7 @@ const books = [
 		author: "Saul Bellow",
 		publicationDate: "1959",
 		description: "A restless millionaire seeks meaning in Africa.",
-		quote: "I want, I want",
+		quote: "...between human beings there are only two alternatives, either brotherhood or crime.",
 		show: true,
 		coverImage: "./assets/covers/hendersonRainKing.webp"
 	},
@@ -193,7 +193,7 @@ const books = [
 		author: "John O'Hara",
 		publicationDate: "1934",
 		description: "One reckless act sends a socialite toward ruin.",
-		quote: "He had done it",
+		quote: "I’m so afraid, but it’s just as wrong to stop, isn’t it? Isn’t it just as wrong to stop?",
 		show: true,
 		coverImage: "./assets/covers/appointmentSamarra.webp"
 	},
@@ -202,7 +202,7 @@ const books = [
 		author: "John Dos Passos",
 		publicationDate: "1930",
 		description: "A collage of lives maps America’s first half-century.",
-		quote: "All right, we're going",
+		quote: "We work to eat to get the strength to work to eat to get the strength to work.",
 		show: true,
 		coverImage: "./assets/covers/usa.webp"
 	},
@@ -210,7 +210,7 @@ const books = [
 		title: "Winesburg, Ohio",
 		author: "Sherwood Anderson",
 		publicationDate: "1919",
-		description: "Linked stories expose loneliness and longing in a small town.",
+		description: "Only the few know the sweetness of the twisted apples.",
 		quote: "He wanted to talk",
 		show: true,
 		coverImage: "./assets/covers/winesburg.webp"
@@ -220,7 +220,7 @@ const books = [
 		author: "E. M. Forster",
 		publicationDate: "1924",
 		description: "Friendship and empire collide after a trip to the Marabar Caves.",
-		quote: "Only connect",
+		quote: "Life never gives us what we want at the moment that we consider appropriate.",
 		show: true,
 		coverImage: "./assets/covers/passageIndia.webp"
 	},
@@ -228,8 +228,7 @@ const books = [
 		title: "The Wings of the Dove",
 		author: "Henry James",
 		publicationDate: "1902",
-		description: "Love, illness, and money entwine in a refined moral drama.",
-		quote: "She waited",
+		description: "Yes, one has read; but this is beyond any book.",
 		show: true,
 		coverImage: "./assets/covers/wingsDove.webp"
 	},
@@ -238,7 +237,7 @@ const books = [
 		author: "Henry James",
 		publicationDate: "1903",
 		description: "A middle-aged envoy discovers a richer life in Europe.",
-		quote: "Live all you can",
+		quote: "Live all you can, it's a mistake not to",
 		show: true,
 		coverImage: "./assets/covers/ambassadors.webp"
 	},
@@ -247,7 +246,7 @@ const books = [
 		author: "F. Scott Fitzgerald",
 		publicationDate: "1934",
 		description: "A glamorous marriage decays on the Riviera.",
-		quote: "Tender is the night",
+		quote: "Strange children should smile at each other and say, 'Let's play.'",
 		show: true,
 		coverImage: "./assets/covers/tenderNight.webp"
 	},
@@ -256,7 +255,7 @@ const books = [
 		author: "James T. Farrell",
 		publicationDate: "1932",
 		description: "A Chicago youth comes of age amid brutality and disappointment.",
-		quote: "He kept going",
+		quote: "All his life he had wished and waited, and there had been no change, except for the worse.",
 		show: true,
 		coverImage: "./assets/covers/studsLonigan.webp"
 	},
@@ -265,7 +264,7 @@ const books = [
 		author: "Ford Madox Ford",
 		publicationDate: "1915",
 		description: "An unreliable narrator untangles adultery, deception, and collapse.",
-		quote: "This is the saddest story",
+		quote: "This is the saddest story I have ever heard.",
 		show: true,
 		coverImage: "./assets/covers/goodSoldier.webp"
 	},
@@ -274,7 +273,7 @@ const books = [
 		author: "George Orwell",
 		publicationDate: "1945",
 		description: "A barnyard revolution turns into tyranny.",
-		quote: "All animals are equal",
+		quote: "All animals are equal, but some animals are more equal than others.",
 		show: true,
 		coverImage: "./assets/covers/animalFarm.webp"
 	},
@@ -292,7 +291,7 @@ const books = [
 		author: "Theodore Dreiser",
 		publicationDate: "1900",
 		description: "A small-town girl pursues desire and status in the modern city.",
-		quote: "She looked out",
+		quote: "How true it is that words are but the vague shadows of the volumes we mean.",
 		show: true,
 		coverImage: "./assets/covers/sisterCarrie.webp"
 	},
@@ -301,7 +300,7 @@ const books = [
 		author: "Evelyn Waugh",
 		publicationDate: "1934",
 		description: "A savage satire of marriage, class, and modern emptiness.",
-		quote: "Dust everywhere",
+		quote: "You can't ever tell what's going to hurt people.",
 		show: true,
 		coverImage: "./assets/covers/handfulDust.webp"
 	},
@@ -310,7 +309,7 @@ const books = [
 		author: "William Faulkner",
 		publicationDate: "1930",
 		description: "A poor family carries their mother’s body across Mississippi.",
-		quote: "My mother is a fish",
+		quote: "My mother is a fish.",
 		show: true,
 		coverImage: "./assets/covers/layDying.webp"
 	},
@@ -319,7 +318,7 @@ const books = [
 		author: "Robert Penn Warren",
 		publicationDate: "1946",
 		description: "A populist politician rises and rots in power.",
-		quote: "The end of man is knowledge",
+		quote: "The best luck always happens to people who don't need it.",
 		show: true,
 		coverImage: "./assets/covers/kingsMen.webp"
 	},
@@ -328,7 +327,7 @@ const books = [
 		author: "Thornton Wilder",
 		publicationDate: "1927",
 		description: "Five deaths prompt a search for meaning and providence.",
-		quote: "Either we live by accident",
+		quote: "There is a land of the living and a land of the dead and the bridge is love, the only survival, the only meaning.",
 		show: true,
 		coverImage: "./assets/covers/bridgeOfSanLuisRey.webp"
 	},
@@ -337,7 +336,7 @@ const books = [
 		author: "E. M. Forster",
 		publicationDate: "1910",
 		description: "Three families embody class, culture, and connection in England.",
-		quote: "Only connect",
+		quote: "Only connect! That was the whole of her sermon.",
 		show: true,
 		coverImage: "./assets/covers/howardsEnd.webp"
 	},
@@ -346,7 +345,7 @@ const books = [
 		author: "James Baldwin",
 		publicationDate: "1953",
 		description: "A Harlem boy wrestles with faith, family, and identity.",
-		quote: "John would be a preacher",
+		quote: "I can climb back up. If it’s wrong, I can always climb back up.",
 		show: true,
 		coverImage: "./assets/covers/tellMountain.webp"
 	},
@@ -355,7 +354,7 @@ const books = [
 		author: "Graham Greene",
 		publicationDate: "1948",
 		description: "Duty, pity, and sin entrap a colonial officer.",
-		quote: "He was too honest",
+		quote: "A single feat of daring can alter the whole conception of what is possible.",
 		show: true,
 		coverImage: "./assets/covers/heartMatter.webp"
 	},
@@ -364,7 +363,7 @@ const books = [
 		author: "William Golding",
 		publicationDate: "1954",
 		description: "Schoolboys on an island build a society that turns savage.",
-		quote: "Maybe there is a beast",
+		quote: "Maybe there is a beast… maybe it's only us.",
 		show: true,
 		coverImage: "./assets/covers/lordFlies.webp"
 	},
@@ -373,7 +372,7 @@ const books = [
 		author: "James Dickey",
 		publicationDate: "1970",
 		description: "A wilderness trip becomes a fight for survival and conscience.",
-		quote: "This is not my life",
+		quote: "I was standing in the most absolute aloneness that I had ever been given.",
 		show: true,
 		coverImage: "./assets/covers/deliverance.webp"
 	},
@@ -382,7 +381,7 @@ const books = [
 		author: "Anthony Powell",
 		publicationDate: "1951",
 		description: "A many-volume social chronicle of Britain between the wars and after.",
-		quote: "Time's music",
+		quote: "...in those days children were rather out of fashion.",
 		show: true,
 		coverImage: "./assets/covers/danceMusicTime.webp"
 	},
@@ -391,7 +390,7 @@ const books = [
 		author: "Aldous Huxley",
 		publicationDate: "1928",
 		description: "Interlocking lives create a satirical symphony of ideas and desire.",
-		quote: "So many voices",
+		quote: "I wanted to change the world. But I have found that the only thing one can be sure of changing is oneself.",
 		show: true,
 		coverImage: "./assets/covers/pointCounterPoint.webp"
 	},
@@ -400,7 +399,7 @@ const books = [
 		author: "Ernest Hemingway",
 		publicationDate: "1926",
 		description: "Disillusioned expatriates drift through Paris and Pamplona.",
-		quote: "Isn't it pretty to think so",
+		quote: "Everyone behaves badly--given the chance.",
 		show: true,
 		coverImage: "./assets/covers/sunAlsoRises.webp"
 	},
@@ -418,7 +417,7 @@ const books = [
 		author: "Joseph Conrad",
 		publicationDate: "1904",
 		description: "Greed and imperial power corrupt a South American republic.",
-		quote: "Material interests",
+		quote: "A man possessed of passion is not a bankrupt in life.",
 		show: true,
 		coverImage: "./assets/covers/nostromo.webp"
 	},
@@ -427,7 +426,7 @@ const books = [
 		author: "D. H. Lawrence",
 		publicationDate: "1915",
 		description: "Three generations pursue desire, freedom, and selfhood.",
-		quote: "She wanted to live",
+		quote: "If I were the moon, I know where I would fall down.",
 		show: true,
 		coverImage: "./assets/covers/rainbow.webp"
 	},
@@ -436,7 +435,7 @@ const books = [
 		author: "D. H. Lawrence",
 		publicationDate: "1920",
 		description: "Two sisters test love, sex, and modern life.",
-		quote: "One must be free",
+		quote: "Instead of chopping yourself down to fit the world, chop the world down to fit yourself.",
 		show: true,
 		coverImage: "./assets/covers/womenInLove.webp"
 	},
@@ -445,7 +444,7 @@ const books = [
 		author: "Henry Miller",
 		publicationDate: "1934",
 		description: "A raw, unruly Paris novel of poverty, art, and appetite.",
-		quote: "I have no money",
+		quote: "Everybody says sex is obscene. The only true obscenity is war.",
 		show: true,
 		coverImage: "./assets/covers/tropicCancer.webp"
 	},
@@ -454,7 +453,7 @@ const books = [
 		author: "Norman Mailer",
 		publicationDate: "1948",
 		description: "A platoon in the Pacific reveals war’s machinery and fear.",
-		quote: "The dead know nothing",
+		quote: "The natural role of the twentieth-century man is anxiety.",
 		show: true,
 		coverImage: "./assets/covers/nakedDead.webp"
 	},
@@ -463,7 +462,7 @@ const books = [
 		author: "Philip Roth",
 		publicationDate: "1969",
 		description: "A comic, confessional monologue about sex, family, and neurosis.",
-		quote: "Doctor, I feel sick",
+		quote: "You can no more make someone tell the truth than you can force someone to love you.",
 		show: true,
 		coverImage: "./assets/covers/portnoysComplaint.webp"
 	},
@@ -472,7 +471,7 @@ const books = [
 		author: "Vladimir Nabokov",
 		publicationDate: "1962",
 		description: "A poem and its deranged commentary become a literary labyrinth.",
-		quote: "pale fire",
+		quote: "Dear Jesus, do something.",
 		show: true,
 		coverImage: "./assets/covers/paleFire.webp"
 	},
@@ -481,7 +480,7 @@ const books = [
 		author: "William Faulkner",
 		publicationDate: "1932",
 		description: "Strangers and outcasts cross paths in a haunted Southern town.",
-		quote: "Memory believes",
+		quote: "Dear God, let me be damned a little longer, a little while.",
 		show: true,
 		coverImage: "./assets/covers/lightAugust.webp"
 	},
@@ -490,7 +489,7 @@ const books = [
 		author: "Jack Kerouac",
 		publicationDate: "1957",
 		description: "Friends chase speed, freedom, and revelation across America.",
-		quote: "the only people for me",
+		quote: "Nothing behind me, everything ahead of me, as is ever so on the road.",
 		show: true,
 		coverImage: "./assets/covers/onRoad.webp"
 	},
@@ -499,7 +498,7 @@ const books = [
 		author: "Dashiell Hammett",
 		publicationDate: "1930",
 		description: "A private detective hunts a jewel-encrusted bird through lies and murder.",
-		quote: "the stuff that dreams are made of",
+		quote: "The cheaper the crook, the gaudier the patter.",
 		show: true,
 		coverImage: "./assets/covers/malteseFalcon.webp"
 	},
@@ -508,7 +507,7 @@ const books = [
 		author: "Ford Madox Ford",
 		publicationDate: "1924",
 		description: "An honorable Englishman endures war, marriage, and social change.",
-		quote: "He was the last Tory",
+		quote: "Higher than the beasts, lower than the angels, stuck in our idiot Eden.",
 		show: true,
 		coverImage: "./assets/covers/paradesEnd.webp"
 	},
@@ -517,7 +516,7 @@ const books = [
 		author: "Edith Wharton",
 		publicationDate: "1920",
 		description: "Desire and duty clash in old New York society.",
-		quote: "It was less trouble",
+		quote: "Each time you happen to me all over again.",
 		show: true,
 		coverImage: "./assets/covers/ageInnocence.webp"
 	},
@@ -526,7 +525,7 @@ const books = [
 		author: "Max Beerbohm",
 		publicationDate: "1911",
 		description: "Oxford vanity and romantic absurdity spiral into satire.",
-		quote: "She was fatal",
+		quote: "Does the stag in his hour of victory need a diploma from the hind?",
 		show: true,
 		coverImage: "./assets/covers/zuleikaDobson.webp"
 	},
@@ -535,7 +534,7 @@ const books = [
 		author: "Walker Percy",
 		publicationDate: "1961",
 		description: "A drifting New Orleans broker searches for authentic life.",
-		quote: "The search",
+		quote: "Losing hope is not so bad. There's something worse: losing hope and hiding it from yourself.",
 		show: true,
 		coverImage: "./assets/covers/movieGoer.webp"
 	},
@@ -544,7 +543,7 @@ const books = [
 		author: "Willa Cather",
 		publicationDate: "1927",
 		description: "Two clerics build a diocese across the New Mexican frontier.",
-		quote: "The land said more",
+		quote: "Men travel faster now, but I do not know if they go to better things.",
 		show: true,
 		coverImage: "./assets/covers/deathComesArchbishop.webp"
 	},
@@ -553,7 +552,7 @@ const books = [
 		author: "James Jones",
 		publicationDate: "1951",
 		description: "Soldiers in Hawaii confront violence, loyalty, and fate before Pearl Harbor.",
-		quote: "A man can take only so much",
+		quote: "That was one of the virtues of being a pessimist: nothing was ever as bad as you thought it would be.",
 		show: true,
 		coverImage: "./assets/covers/hereEternity.webp"
 	},
@@ -562,7 +561,7 @@ const books = [
 		author: "John Cheever",
 		publicationDate: "1957",
 		description: "An eccentric New England family navigates generational change.",
-		quote: "The river kept on",
+		quote: "They chronicled the changes in the wind, the arrival and departure of ships, the price of tea and jute and the death of kings.",
 		show: true,
 		coverImage: "./assets/covers/wapshot.webp"
 	},
@@ -571,7 +570,7 @@ const books = [
 		author: "J. D. Salinger",
 		publicationDate: "1951",
 		description: "A grieving teenager wanders New York railing against phoniness.",
-		quote: "Don't ever tell anybody anything",
+		quote: "Grand. There's a word I really hate. It's a phony. I could puke every time I hear it.",
 		show: true,
 		coverImage: "./assets/covers/catcherRye.webp"
 	},
@@ -580,7 +579,7 @@ const books = [
 		author: "Anthony Burgess",
 		publicationDate: "1962",
 		description: "A violent youth meets state-engineered reform in a slangy dystopia.",
-		quote: "What's it going to be then",
+		quote: "We can destroy what we have written, but we cannot unwrite it.",
 		show: true,
 		coverImage: "./assets/covers/clockworkOrange.webp"
 	},
@@ -589,7 +588,7 @@ const books = [
 		author: "W. Somerset Maugham",
 		publicationDate: "1915",
 		description: "An orphan’s painful education in love, art, and freedom.",
-		quote: "He longed to escape",
+		quote: "Like all weak men he laid an exaggerated stress on not changing one's mind.",
 		show: true,
 		coverImage: "./assets/covers/humanBondage.webp"
 	},
@@ -598,7 +597,7 @@ const books = [
 		author: "Joseph Conrad",
 		publicationDate: "1902",
 		description: "A river journey into colonial brutality becomes a voyage inward.",
-		quote: "The horror!",
+		quote: "The horror! The horror!",
 		show: true,
 		coverImage: "./assets/covers/heartDarkness.webp"
 	},
@@ -607,7 +606,7 @@ const books = [
 		author: "Sinclair Lewis",
 		publicationDate: "1920",
 		description: "A reform-minded woman battles small-town complacency.",
-		quote: "Main Street",
+		quote: "The greatest mystery about a human being is not his reaction to sex or praise, but the manner in which he contrives to put in twenty-four hours a day.",
 		show: true,
 		coverImage: "./assets/covers/mainStreet.webp"
 	},
@@ -616,7 +615,7 @@ const books = [
 		author: "Edith Wharton",
 		publicationDate: "1905",
 		description: "A brilliant woman without money is crushed by society.",
-		quote: "I can’t be happy",
+		quote: "Half the trouble in life is caused by pretending there isn't any.",
 		show: true,
 		coverImage: "./assets/covers/houseMirth.webp"
 	},
@@ -625,7 +624,7 @@ const books = [
 		author: "Lawrence Durrell",
 		publicationDate: "1957",
 		description: "Four linked novels revisit the same passions from shifting perspectives.",
-		quote: "Alexandria",
+		quote: "A city becomes a world when one loves one of its inhabitants.",
 		show: true,
 		coverImage: "./assets/covers/alexandria.webp"
 	},
@@ -634,7 +633,7 @@ const books = [
 		author: "Richard Hughes",
 		publicationDate: "1929",
 		description: "Children kidnapped by pirates reveal the darkness of innocence.",
-		quote: "They were children",
+		quote: "... I would rather have to extract information from the devil himself than from a child.",
 		show: true,
 		coverImage: "./assets/covers/highWindJamaica.webp"
 	},
@@ -643,7 +642,7 @@ const books = [
 		author: "V. S. Naipaul",
 		publicationDate: "1961",
 		description: "A Trinidad man pursues dignity through the dream of owning a home.",
-		quote: "How terrible it would be",
+		quote: "no true effort is ever wasted",
 		show: true,
 		coverImage: "./assets/covers/houseMrBiswas.webp"
 	},
@@ -652,7 +651,7 @@ const books = [
 		author: "Nathanael West",
 		publicationDate: "1939",
 		description: "Hollywood desperation curdles into grotesque apocalypse.",
-		quote: "Burning of Los Angeles",
+		quote: "Only those who still have hope can benefit from tears.",
 		show: true,
 		coverImage: "./assets/covers/dayLocust.webp"
 	},
@@ -661,7 +660,7 @@ const books = [
 		author: "Ernest Hemingway",
 		publicationDate: "1929",
 		description: "Love blooms and breaks against the chaos of war.",
-		quote: "the world breaks everyone",
+		quote: "The world breaks every one and afterward many are strong at the broken places.",
 		show: true,
 		coverImage: "./assets/covers/farewellArms.webp"
 	},
@@ -670,7 +669,7 @@ const books = [
 		author: "Evelyn Waugh",
 		publicationDate: "1938",
 		description: "A bumbling reporter stumbles into an absurd media circus.",
-		quote: "Up to a point, Lord Copper",
+		quote: "News is what a chap who doesn't care much about anything wants to read.",
 		show: true,
 		coverImage: "./assets/covers/scoop.webp"
 	},
@@ -679,7 +678,7 @@ const books = [
 		author: "Muriel Spark",
 		publicationDate: "1961",
 		description: "A charismatic teacher shapes and damages her chosen girls.",
-		quote: "Give me a girl",
+		quote: "To me education is a leading out of what is already there in the pupil's soul.",
 		show: true,
 		coverImage: "./assets/covers/primeJeanBrodie.webp"
 	},
@@ -688,7 +687,7 @@ const books = [
 		author: "James Joyce",
 		publicationDate: "1939",
 		description: "A dreamlike verbal universe turns Dublin into myth and pun.",
-		quote: "riverrun",
+		quote: "First we feel. Then we fall.",
 		show: true,
 		coverImage: "./assets/covers/finnegansWake.webp"
 	},
@@ -697,7 +696,7 @@ const books = [
 		author: "Rudyard Kipling",
 		publicationDate: "1901",
 		description: "An orphan roams colonial India through espionage and spiritual quest.",
-		quote: "Who is Kim",
+		quote: "This is a brief life, but in its brevity it offers us some splendid moments, some meaningful adventures.",
 		show: true,
 		coverImage: "./assets/covers/kim.webp"
 	},
@@ -706,7 +705,7 @@ const books = [
 		author: "E. M. Forster",
 		publicationDate: "1908",
 		description: "A young woman chooses feeling over convention.",
-		quote: "One doesn't like one’s emotions",
+		quote: "Mistrust all enterprises that require new clothes.",
 		show: true,
 		coverImage: "./assets/covers/roomView.webp"
 	},
@@ -715,7 +714,7 @@ const books = [
 		author: "Evelyn Waugh",
 		publicationDate: "1945",
 		description: "Memory, class, faith, and desire haunt an aristocratic family.",
-		quote: "Et in Arcadia ego",
+		quote: "Sometimes, I feel the past and the future pressing so hard on either side that there's no room for the present at all.",
 		show: true,
 		coverImage: "./assets/covers/bridesheadRevisted.webp"
 	},
@@ -724,7 +723,7 @@ const books = [
 		author: "Saul Bellow",
 		publicationDate: "1953",
 		description: "A Chicago-born drifter improvises his way through modern America.",
-		quote: "I am an American",
+		quote: "As long as I could keep improving my mind, I figured, I was doing okay.",
 		show: true,
 		coverImage: "./assets/covers/augieMarch.webp"
 	},
@@ -733,7 +732,7 @@ const books = [
 		author: "Wallace Stegner",
 		publicationDate: "1971",
 		description: "A historian reconstructs a marriage and the making of the West.",
-		quote: "The past is always a rebuke",
+		quote: "It's easier to die than to move ... at least for the Other Side you don't need trunks.",
 		show: true,
 		coverImage: "./assets/covers/angleRepose.webp"
 	},
@@ -742,7 +741,7 @@ const books = [
 		author: "V. S. Naipaul",
 		publicationDate: "1979",
 		description: "A merchant watches a postcolonial nation slide into danger.",
-		quote: "The world is what it is",
+		quote: "After all, we make ourselves according to the ideas we have of our possibilities.",
 		show: true,
 		coverImage: "./assets/covers/bendRiver.webp"
 	},
@@ -751,7 +750,7 @@ const books = [
 		author: "Elizabeth Bowen",
 		publicationDate: "1938",
 		description: "A young girl’s first love exposes adult cruelty and self-deception.",
-		quote: "She felt everything",
+		quote: "Some people are moulded by their aspirations, others by their hostilities.",
 		show: true,
 		coverImage: "./assets/covers/deathHeart.webp"
 	},
@@ -760,7 +759,7 @@ const books = [
 		author: "Joseph Conrad",
 		publicationDate: "1900",
 		description: "A disgraced seaman seeks redemption after a single cowardly act.",
-		quote: "He was one of us",
+		quote: "You shall judge of a man by his foes as well as by his friends.",
 		show: true,
 		coverImage: "./assets/covers/lordJim.webp"
 	},
@@ -769,7 +768,7 @@ const books = [
 		author: "E. L. Doctorow",
 		publicationDate: "1975",
 		description: "History and fiction mingle in a restless portrait of America.",
-		quote: "There was no Negro problem",
+		quote: "I am often asked the question How can the masses permit themselves to be exploited by the few. The answer is By being persuaded to identify with them.",
 		show: true,
 		coverImage: "./assets/covers/ragtime.webp"
 	},
@@ -778,7 +777,7 @@ const books = [
 		author: "Arnold Bennett",
 		publicationDate: "1908",
 		description: "Two sisters age through modernity, marriage, and regret.",
-		quote: "Life had gone on",
+		quote: ". . . humanity walks ever on a thin crust over terrific abysses.",
 		show: true,
 		coverImage: "./assets/covers/oldWivesTale.webp"
 	},
@@ -787,7 +786,7 @@ const books = [
 		author: "Jack London",
 		publicationDate: "1903",
 		description: "A stolen dog answers the pull of instinct and survival.",
-		quote: "the call",
+		quote: "No, sir. Go to hell sir. It's the best I can do for you sir.",
 		show: true,
 		coverImage: "./assets/covers/callOfTheWild.webp"
 	},
@@ -795,7 +794,7 @@ const books = [
 		title: "Loving",
 		author: "Henry Green",
 		publicationDate: "1945",
-		description: "Servants and aristocrats circle one another in wartime Ireland.",
+		description: "I can't understand why people can't go on just being ordinary to each other even if they are in love.",
 		quote: "Loving",
 		show: true,
 		coverImage: "./assets/covers/loving.webp"
@@ -805,7 +804,7 @@ const books = [
 		author: "Salman Rushdie",
 		publicationDate: "1981",
 		description: "Children born at India’s independence carry the nation’s fate.",
-		quote: "I was born",
+		quote: "We all owe death a life.",
 		show: true,
 		coverImage: "./assets/covers/mindnightsChildren.webp"
 	},
@@ -814,7 +813,7 @@ const books = [
 		author: "Erskine Caldwell",
 		publicationDate: "1932",
 		description: "Grotesque Depression-era poverty devastates a Georgia family.",
-		quote: "Hungry all the time",
+		quote: "Preachers has got to preach against something. It wouldn’t do them no good to preach for everything. They got to be against something every time.",
 		show: true,
 		coverImage: "./assets/covers/tobaccoRoad.webp"
 	},
@@ -823,7 +822,7 @@ const books = [
 		author: "William Kennedy",
 		publicationDate: "1983",
 		description: "An alcoholic drifter in Albany is haunted by guilt and ghosts.",
-		quote: "The dead remember",
+		quote: "One never knows the potential within the human breast.",
 		show: true,
 		coverImage: "./assets/covers/ironweed.webp"
 	},
@@ -832,7 +831,7 @@ const books = [
 		author: "John Fowles",
 		publicationDate: "1965",
 		description: "A young Englishman is drawn into elaborate psychological games.",
-		quote: "Nothing is as it seems",
+		quote: "Duty largely consists of pretending that the trivial is critical.",
 		show: true,
 		coverImage: "./assets/covers/magus.webp"
 	},
@@ -841,7 +840,7 @@ const books = [
 		author: "Jean Rhys",
 		publicationDate: "1966",
 		description: "A Caribbean prequel restores the voice of Rochester’s first wife.",
-		quote: "There is always the other side",
+		quote: "I thought if I told no one it might not be true.",
 		show: true,
 		coverImage: "./assets/covers/wideSargassoSea.webp"
 	},
@@ -850,7 +849,7 @@ const books = [
 		author: "Iris Murdoch",
 		publicationDate: "1954",
 		description: "A comic London quest tests art, language, and friendship.",
-		quote: "Words are not enough",
+		quote: "Hegel says that Truth is a great word and the thing is greater still. With Dave we never seemed to get past the word.",
 		show: true,
 		coverImage: "./assets/covers/underNet.webp"
 	},
@@ -859,7 +858,7 @@ const books = [
 		author: "William Styron",
 		publicationDate: "1979",
 		description: "A writer befriends two troubled lovers shadowed by Auschwitz.",
-		quote: "I can’t choose",
+		quote: "The query: 'At Auschwitz, tell me, where was God?' And the answer: 'Where was man?'",
 		show: true,
 		coverImage: "./assets/covers/sophiesChoice.webp"
 	},
@@ -868,7 +867,7 @@ const books = [
 		author: "Paul Bowles",
 		publicationDate: "1949",
 		description: "Travel in North Africa becomes existential disintegration.",
-		quote: "Because we don't know",
+		quote: "The soul is the weariest part of the body.",
 		show: true,
 		coverImage: "./assets/covers/shelteringSky.webp"
 	},
@@ -877,7 +876,7 @@ const books = [
 		author: "James M. Cain",
 		publicationDate: "1934",
 		description: "An affair turns murderous in a lean noir classic.",
-		quote: "I loved her", 
+		quote: "Stealing a man's wife, that's nothing, but stealing his car, that's larceny.", 
 		show: true,
 		coverImage: "./assets/covers/postmanRings.webp"
 	},
@@ -886,7 +885,7 @@ const books = [
 		author: "J. P. Donleavy",
 		publicationDate: "1955",
 		description: "A reckless American law student drinks and blunders through Dublin.",
-		quote: "Dangerfield was here",
+		quote: "All I want is one break which is not my neck.",
 		show: true,
 		coverImage: "./assets/covers/gingerMan.webp"
 	},
@@ -895,7 +894,7 @@ const books = [
 		author: "Booth Tarkington",
 		publicationDate: "1918",
 		description: "An old family declines as modern America remakes its world.",
-		quote: "Major Amberson had been magnificent",
+		quote: "Whatever does not pretend at all has style enough.",
 		show: true,
 		coverImage: "./assets/covers/magnificentAmbersons.webp"
 
