@@ -139,7 +139,7 @@ const books = [
 		author: "Theodore Dreiser",
 		publicationDate: "1925",
 		description: "Ambition, desire, and class pressure drive a young man toward crime.",
-		quote: "what matter it if a man gaineth the whole world and loseth his own soul?",
+		quote: "What matter it if a man gaineth the whole world and loseth his own soul?",
 		show: true,
 		coverImage: "./assets/covers/americanTragedy.webp"
 	},

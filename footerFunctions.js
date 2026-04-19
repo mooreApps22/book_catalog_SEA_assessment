@@ -8,7 +8,7 @@ function renderFooter() {
 	signature.textContent = "Developed by Skyy Moore.";
 
 	gitHubLink.href = "https://github.com/mooreApps22?tab=repositories&type=source"; 
-	gitHubLink.textContent = "Skyy's GitHub Repo";
+	gitHubLink.textContent = "Skyy's GitHub Repository";
 	gitHubLink.style.color = "white";
 
 	listCredit.textContent = "This reading list is from the Modern Library's 1998 100 Best Novels of the 20th century.";
