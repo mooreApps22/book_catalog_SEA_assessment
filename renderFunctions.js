@@ -1,13 +1,30 @@
-// Intial Rendering Functions
+function applyFilter(input) {
+	const	words = input
+		.toLowerCase()
+		.trim()
+		.split(/\s+/)
+		.filter(Boolean);
 
-function	createSortMenuBar(className) {
+	books.forEach((book) => {
+		const	text = `${book.title} ${book.description} ${book.author}`.toLowerCase();
+
+		const	matchesAllWords = words.every((word) =>
+			text.includes(word)
+		);
+
+		book.show = matchesAllWords;
+	});
+	renderBooks();
+}
+
+function createSortMenuBar(className) {
 	
 	const	bar = document.createElement("div");
 	bar.className = className;
 	return (bar);
 }
 
-function	createSortMenu() {
+function createSortMenu() {
 
 	const	sortMenu = document.createElement("div");
 
@@ -73,6 +90,11 @@ function renderMenuIcon() {
 	filterBar.type = "text";
 	filterBar.placeholder = "Filter books...";
 
+	filterBar.addEventListener("input", (event) => {
+		const value = event.target.value;
+		applyFilter(value);
+	});
+
 	const	sortMenu = createSortMenu();	
 
 	header.append(controlPanel);
@@ -92,6 +114,7 @@ function renderHeader() {
 	header.append(siteName);	
 }
 
+// Footer Section
 
 function renderFooter() {	
 	const	footer = document.querySelector(".footer");
