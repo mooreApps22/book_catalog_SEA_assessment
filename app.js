@@ -51,6 +51,12 @@ function openBookPopup(book) {
 		}
 	});
 
+	document.addEventListener("keydown", (event) => {
+		if (event.key === 'Escape') {
+			popupOverlay.remove();
+		}
+	});
+
 	popupBox.append(
 		closeButton,
 		img,

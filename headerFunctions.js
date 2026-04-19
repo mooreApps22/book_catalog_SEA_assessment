@@ -109,24 +109,9 @@ function renderHeader() {
 	const	header = document.querySelector(".header");
 	const	siteName = document.createElement("h1");
 	
-	siteName.textContent = "NORTH HOLLYWOOD BOOK CLUB";
+	siteName.textContent = "NOHO BOOK CLUB READING LIST";
 
 	header.append(siteName);	
 }
 
 // Footer Section
-
-function renderFooter() {	
-	const	footer = document.querySelector(".footer");
-	const	credit = document.createElement("p");
-	const	gitHubLink = document.createElement("a");
-
-	credit.textContent = "Developed by Skyy Moore.";
-	gitHubLink.href = "https://github.com/mooreApps22?tab=repositories&type=source"; 
-	gitHubLink.textContent = "Skyy's GitHub Repo";
-	gitHubLink.style.color = "white";
-	
-
-	footer.append(credit);
-	footer.append(gitHubLink);
-}
