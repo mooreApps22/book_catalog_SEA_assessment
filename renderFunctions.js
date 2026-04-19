@@ -1,3 +1,5 @@
+// Intial Rendering Functions
+
 function renderMenuIcon() {
 
 	const	header = document.querySelector(".header");
@@ -23,8 +25,6 @@ function renderMenuIcon() {
 	menuIcon.append(bar1);
 	menuIcon.append(bar2);
 	menuIcon.append(bar3);
-		
-	
 }
 
 function renderHeader() {
@@ -37,29 +37,8 @@ function renderHeader() {
 	header.append(siteName);	
 }
 
-function renderBooks(books) {
-
-	const container = document.getElementById("bookShelf");
-
-	books.forEach( book => {
-
-		const article = document.createElement("article");
-		article.className = "book";
-
-		const	img = document.createElement("img");
-		img.src = book.coverImage;
-		img.alt = `Cover of ${book.title}`;
-		img.loading = "lazy";
-		img.width = 180;
-
-		article.append(img);
-
-		container.appendChild(article);
-	});
-}
 
 function renderFooter() {	
-
 	const	footer = document.querySelector(".footer");
 	const	credit = document.createElement("p");
 	const	gitHubLink = document.createElement("a");
@@ -73,9 +52,3 @@ function renderFooter() {
 	footer.append(credit);
 	footer.append(gitHubLink);
 }
-
-
-renderHeader();
-renderMenuIcon();
-renderBooks(books);
-renderFooter();
