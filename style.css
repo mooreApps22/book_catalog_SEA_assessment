@@ -3,6 +3,7 @@ body {
   margin: 0;
   padding: 0;
   font-size: 16px;
+  background: black;
 }
 
 .bookCard {
@@ -98,27 +99,26 @@ input {
 	position: absolute;
 	top: calc(100% + 6px);
 	left: 0;
-	z-index: 1000;
-	min-width: 180px;
+	min-width: 10vw;
 	background: white;
-	border: 1px solid #ccc;
-	border-radius: 8px;
-	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-	padding: 8px;
+	border: 1px solid white;
+	border-radius: 1px;
 }
 
 .sortMenu button {
+	font-size: 1rem;
 	display: block;
-	width: 100%
-	padding 8px 10px;
-	border: none;
-	background: none;
+	width: 100%;
+	border: solid 2px;
+	background: black;
+	color: white;
 	text-align: left;
 	cursor: pointer;
 }
 
 .sortMenu button:hover {
 	background: #f3f3f3;
+	color: black;
 }
 
 .hidden {
@@ -134,4 +134,3 @@ input {
 	padding-left: 5vw;
 	padding-top: 2.5vw;
 }
-
