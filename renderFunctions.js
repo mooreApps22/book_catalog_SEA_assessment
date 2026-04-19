@@ -13,6 +13,7 @@ function	createSortMenu() {
 
 	sortMenu.className = "sortMenu hidden";
 	sortMenu.innerHTML = `
+		<button data-sort="default">Default</button>
 		<button data-sort="title-asc">Title A-Z</button>
 		<button data-sort="title-desc">Title Z-A</button>
 		<button data-sort="date-newest">Newest</button>
@@ -39,12 +40,10 @@ function wireSortMenu(menuWrap, menuIcon, sortMenu) {
 		if (!button) return;
 
 		const sortValue = button.dataset.sort;
+		currentSort = sortValue;
 		console.log("selected sort:", sortValue);
 
 		sortMenu.classList.add("hidden");
-
-		// Sorting Here
-
 		renderBooks();
 	});	
 }
