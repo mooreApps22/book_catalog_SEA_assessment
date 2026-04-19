@@ -1,48 +1,27 @@
 // Intial Rendering Functions
 
-function renderMenuIcon() {
+function	createSortMenuBar(className) {
+	
+	const	bar = document.createElement("div");
+	bar.className = className;
+	return (bar);
+}
 
-	const	header = document.querySelector(".header");
-	const	controlPanel = document.createElement("div");
-	const	menuWrap = document.createElement("div");
-	const	menuIcon = document.createElement("button");
-	const	bar1 = document.createElement("div");
-	const	bar2 = document.createElement("div");
-	const	bar3 = document.createElement("div");
-	const	filterBar = document.createElement("input");
+function	createSortMenu() {
+
 	const	sortMenu = document.createElement("div");
 
-	controlPanel.className = "controlPanel";
-	menuWrap.className = "menuWrap";
-	menuIcon.className = "menuBox";
-	bar1.className = "menuBar1";
-	bar2.className = "menuBar2";
-	bar3.className = "menuBar3";
-	filterBar.className = "filterBar";
 	sortMenu.className = "sortMenu hidden";
-	
-	filterBar.type = "text";
-	filterBar.placeholder = "Filter books...";
-
 	sortMenu.innerHTML = `
 		<button data-sort="title-asc">Title A-Z</button>
 		<button data-sort="title-desc">Title Z-A</button>
 		<button data-sort="date-newest">Newest</button>
 		<button data-sort="date-oldest">Oldest</button>
 	`;
-	
-	header.append(controlPanel);
+	return (sortMenu);
+}
 
-
-	controlPanel.append(menuWrap);
-	controlPanel.append(filterBar);
-
-	menuWrap.append(menuIcon);
-	menuWrap.append(sortMenu);
-
-	menuIcon.append(bar1);
-	menuIcon.append(bar2);
-	menuIcon.append(bar3);
+function wireSortMenu(menuWrap, menuIcon, sortMenu) {
 
 	menuIcon.addEventListener("click", (event) => {
 		event.stopPropagation();
@@ -64,9 +43,44 @@ function renderMenuIcon() {
 
 		sortMenu.classList.add("hidden");
 
-		// set currentSort = sortValue;
+		// Sorting Here
+
 		renderBooks();
-	});
+	});	
+}
+
+
+function renderMenuIcon() {
+
+	const	header = document.querySelector(".header");
+
+	const	controlPanel = document.createElement("div");
+	controlPanel.className = "controlPanel";
+
+	const	menuWrap = document.createElement("div");
+	menuWrap.className = "menuWrap";
+
+	const	menuIcon = document.createElement("button");
+	menuIcon.className = "menuBox";
+
+	menuIcon.append(
+		createSortMenuBar("menuBar1"),
+		createSortMenuBar("menuBar2"),
+		createSortMenuBar("menuBar3")
+	);
+
+	const	filterBar = document.createElement("input");
+	filterBar.className = "filterBar";
+	filterBar.type = "text";
+	filterBar.placeholder = "Filter books...";
+
+	const	sortMenu = createSortMenu();	
+
+	header.append(controlPanel);
+	controlPanel.append(menuWrap, filterBar);
+	menuWrap.append(menuIcon, sortMenu);
+
+	wireSortMenu(menuWrap, menuIcon, sortMenu);
 }
 
 function renderHeader() {
