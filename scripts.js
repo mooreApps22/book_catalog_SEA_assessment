@@ -10,9 +10,9 @@ function renderMenuIcon() {
 
 	controlPanel.className = "controlPanel";
 	menuIcon.className = "menuBox";
-	bar1.className = "menuBar";
-	bar2.className = "menuBar";
-	bar3.className = "menuBar";
+	bar1.className = "menuBar1";
+	bar2.className = "menuBar2";
+	bar3.className = "menuBar3";
 	searchBar.className = "searchBar";
 	
 	header.append(controlPanel);
@@ -23,6 +23,7 @@ function renderMenuIcon() {
 	menuIcon.append(bar1);
 	menuIcon.append(bar2);
 	menuIcon.append(bar3);
+		
 	
 }
 
@@ -32,6 +33,7 @@ function renderHeader() {
 	const	siteName = document.createElement("h1");
 	
 	siteName.textContent = "NORTH HOLLYWOOD BOOK CLUB";
+
 	header.append(siteName);	
 }
 
@@ -51,11 +53,29 @@ function renderBooks(books) {
 		img.width = 180;
 
 		article.append(img);
+
 		container.appendChild(article);
 	});
+}
+
+function renderFooter() {	
+
+	const	footer = document.querySelector(".footer");
+	const	credit = document.createElement("p");
+	const	gitHubLink = document.createElement("a");
+
+	credit.textContent = "Developed by Skyy Moore.";
+	gitHubLink.href = "https://github.com/mooreApps22?tab=repositories&type=source"; 
+	gitHubLink.textContent = "Skyy's GitHub Repo";
+	gitHubLink.style.color = "white";
+	
+
+	footer.append(credit);
+	footer.append(gitHubLink);
 }
 
 
 renderHeader();
 renderMenuIcon();
 renderBooks(books);
+renderFooter();
