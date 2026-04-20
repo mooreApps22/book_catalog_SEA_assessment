@@ -95,7 +95,7 @@ function getRenderedBooks() {
 	return (visibleBooks);
 }
 
-function renderBooks(books) {
+function renderBooks() {
 
 	const	bookGrid = document.getElementById("bookShelf");
 	bookGrid.innerHTML = "";
@@ -122,7 +122,6 @@ function renderBooks(books) {
 	});
 }
 
-//
 books.forEach((book, index) => {
 	book.originalIndex = index;
 });

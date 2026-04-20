@@ -109,9 +109,7 @@ function renderHeader() {
 	const	header = document.querySelector(".header");
 	const	siteName = document.createElement("h1");
 	
-	siteName.textContent = "NOHO BOOK CLUB READING LIST";
+	siteName.textContent = "NO.HO. BOOK CLUB READING LIST";
 
 	header.append(siteName);	
 }
-
-// Footer Section
